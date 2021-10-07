@@ -3,7 +3,7 @@ Business = 80
 Intro_computerSystem = 90
 Programming = 100
 print("--- Your Score ---")
-print("Foundation English :",English)
-print("General Business :",Business)
-print("Introduction to Computer Systems :",Intro_computerSystem)
-print("Computer Programming :",Programming)
+print("Foundation English : "+ str(English))
+print("General Business : " + str(Business))
+print("Introduction to Compute Systems : " + str(Intro_computerSystem))
+print("Computer Programming : " + str(Programming))
